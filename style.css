@@ -1,3 +1,8 @@
-.col-md-12 {
-	background-color: #fff;
+div {
+	background-color: grey;
+	padding: 2px;
+}
+
+header {
+	text-align: center;
 }
